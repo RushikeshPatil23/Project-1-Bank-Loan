@@ -30,9 +30,9 @@ These insights can help in making informed decisions on lending strategies, risk
 ### Dataset - Finance1 and finance2
 
 ### Tools 
-  - Power Bi - Dashboard Creation
-  - SQl - Solving Key Performance indicators(KPIs)
-  - Excel - Data Cleaning and creating Dashboard
+  - [Power Bi - Dashboard Creation](https://github.com/RushikeshPatil23/Strategic-Analysis-of-Bank-Loan-Performance/blob/main/bank%20project.pbix)
+  - [SQl - Solving Key Performance indicators(KPIs)]
+  - [Excel - Data Cleaning and creating Dashboard]
  
 
 
