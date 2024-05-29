@@ -1,6 +1,6 @@
 
 
-# [Comprehensive Analysis of Bank Loan Performance](https://rushikeshpatil23.github.io/Project-1-Bank-Loan/)
+# [Strategic Analysis of Bank Loan Performance](https://rushikeshpatil23.github.io/Project-1-Bank-Loan/)
 
   This is a project provided by Excelr Institute which is a part of their Data Analyst course. This project provides insights into the loans given by the bank to US citizens from different states 
   over the years, by the end of this project, we will find out the important insights like top states to take loans, top reasons to take loans, the percentage of customers who paid the loans back and many 
