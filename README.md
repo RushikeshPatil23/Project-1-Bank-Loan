@@ -1,8 +1,6 @@
 # [Strategic Analysis of Bank Loan Performance](https://rushikeshpatil23.github.io/Strategic-Analysis-of-Bank-Loan-Performance/)
 
-  This is a project provided by Excelr Institute which is a part of their Data Analyst course. This project provides insights into the loans given by the bank to US citizens from different states 
-  over the years, by the end of this project, we will find out the important insights like top states to take loans, top reasons to take loans, the percentage of customers who paid the loans back and many 
-  other which will help the bank improve their loan system.
+ This project aims to deliver key insights into bank loan performance, enabling data-driven decision-making. The dashboard aims to enhance loan monitoring, improve risk assessment, and optimize customer verification processes, ultimately supporting strategic growth and risk management in lending practices.
 
 ##  Power Bi Dashboard
 ![Animation Bank 1](https://github.com/RushikeshPatil23/Strategic-Analysis-of-Bank-Loan-Performance/assets/169757781/898af6a8-b61b-48b9-86f5-ceded8c55ab6)
