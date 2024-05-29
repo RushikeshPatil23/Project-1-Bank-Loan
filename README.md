@@ -6,6 +6,8 @@
   over the years, by the end of this project, we will find out the important insights like top states to take loans, top reasons to take loans, the percentage of customers who paid the loans back and many 
   other which will help the bank improve their loan system.
 
+##  Power Bi Dashboard
+
 ### Dataset - Bank loan of customers
 
 ### Tools 
