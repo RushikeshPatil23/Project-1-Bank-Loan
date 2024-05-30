@@ -29,7 +29,7 @@
 
 These insights can help in making informed decisions on lending strategies, risk management, and customer verification processes.
 
-### Dataset - Finance1 and finance2
+### Dataset - [Finance1](ttps://github.com/RushikeshPatil23/Strategic-Analysis-of-Bank-Loan-Performance/blob/main/Finance_1.csv) and finance2
 
 ### Tools 
   - [Power Bi - Dashboard Creation](https://github.com/RushikeshPatil23/Strategic-Analysis-of-Bank-Loan-Performance/blob/main/bank%20project.pbix)
