@@ -5,6 +5,8 @@
 ##  Power Bi Dashboard
 ![Animation Bank 1](https://github.com/RushikeshPatil23/Strategic-Analysis-of-Bank-Loan-Performance/assets/169757781/898af6a8-b61b-48b9-86f5-ceded8c55ab6)
 
+## Key Performance Indicators
+
 ### Year-wise Loan Amount Stats
 - Growth Trend: There is a steady and significant increase in the loan amount issued from 2007 (2M) to 2011 (261M), suggesting a robust expansion in lending activities over these years.
 - Economic Confidence: The increasing loan amounts year-over-year may indicate growing confidence in the economy, encouraging both the bank to lend more and customers to borrow more.
